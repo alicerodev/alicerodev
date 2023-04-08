@@ -13,9 +13,9 @@
 <a href="https://www.linkedin.com/in/alicerodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-  ### Main skills:
+  ### Tecnologias:
 ![Linux](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
-### Studying in this moment:
+### Estudando:
 ![Node.JS](https://img.shields.io/badge/Node.js-121011?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
