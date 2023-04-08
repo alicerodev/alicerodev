@@ -19,3 +19,5 @@
 
 ### Estudando:
 ![Node.JS](https://img.shields.io/badge/Node.js-121011?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
