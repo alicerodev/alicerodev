@@ -20,6 +20,6 @@
 ### Secondary Skills/Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/Node.js-121011?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-121011?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-121011?style=for-the-badge&logo=css3&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
